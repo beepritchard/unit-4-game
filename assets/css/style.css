@@ -1,0 +1,70 @@
+/* Backgrounds */
+body {
+    background-image: url("../images/BGUnit4Game.png");
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+.header {
+  
+    margin-top: 5px clear;
+    color: white;
+    font-size: 5px;
+    font-weight: bold;
+}
+.col-md-5 {
+    background-color: rgb(196, 129, 4);
+
+}
+
+.jumbotron {
+	background-color: white;
+}
+
+.col-md-6 {
+    background-color: rgb(223, 190, 4);
+}
+
+.col-md-3 {
+    background-color:green;
+}
+
+.col-md-1 {
+    background-color:rgb(0, 204, 255);
+    padding: left 10%;
+}
+
+#gameSection, #scoreSection {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#buttonSection {
+
+	/*background-color: yellow;*/
+	padding: 0px;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+h1, h2, h3 {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+p {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.numberBox {
+	font-size: 100px;
+	margin: 0px;
+}
+
+.icons {
+	display: inline-block;
+  	max-width: 100px;
+  	max-height: 100px;
+  	width: auto;
+  	height: auto;
+  	margin:10px;
+}
